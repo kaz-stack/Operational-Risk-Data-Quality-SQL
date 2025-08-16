@@ -4,7 +4,7 @@ This project demonstrates **Operational Risk Data Quality checks** using **SQLit
 We simulate a small operational risk events table with some intentional data issues,  
 then run SQL queries to detect problems in **completeness, accuracy, validity, consistency, and timeliness**.
 
-### 📌 Sample Data
+### 📌  Data
 
 <div style="overflow-x: auto;">
 
@@ -20,7 +20,7 @@ then run SQL queries to detect problems in **completeness, accuracy, validity, c
 </div>
 
 
-## 📷 Sample Output
+## Output
 
 Below are screenshots of each data quality check query and its results.
 
